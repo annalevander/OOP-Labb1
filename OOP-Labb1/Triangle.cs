@@ -2,7 +2,7 @@
 {
     public class Triangle
     {
-        //fält för bas och höjd
+        //fält för bas och höjd 
         double Base;
         double Height;
 
